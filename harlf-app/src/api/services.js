@@ -1,5 +1,5 @@
 
-const API_BASE_URL = "https://harlf-adaptive-ml.onrender.com/api";
+const API_BASE_URL = "/api";
 
 // Common API request function
 async function apiRequest(path, options = {}) {

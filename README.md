@@ -190,11 +190,12 @@ _Add dashboard screenshots here after deployment._
 
 ---
 
-## Author
+## Authors
 
-**Ganesh Palav**
-
-- GitHub: https://github.com/ganesh9076
+* **Ganesh Palav** — GitHub: https://github.com/ganesh9076
+* **Aditya Bankar** — GitHub: https://github.com/Aditya-Bankar
+* **Aditya Gupta** — GitHub: https://github.com/adityagupta2841
+* **Pratik Jingare** — GitHub: https://github.com/pratikjingare-ctrl
 
 ---
 

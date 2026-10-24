@@ -159,21 +159,6 @@ Evaluation metrics include:
 
 ---
 
-## Deployment
-
-### Frontend
-
-- Vercel
-
-### Backend
-
-- Render
-
-Deployment guides are included in the project setup process.
-
----
-
-
 
 ## Future Enhancements
 

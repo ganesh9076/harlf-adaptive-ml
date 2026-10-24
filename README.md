@@ -173,11 +173,7 @@ Deployment guides are included in the project setup process.
 
 ---
 
-## Screenshots
 
-_Add dashboard screenshots here after deployment._
-
----
 
 ## Future Enhancements
 

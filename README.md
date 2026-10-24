@@ -1,6 +1,6 @@
 # HARLF – Adaptive ML Portfolio Optimization System
 
-HARLF (Hierarchical Adaptive Reinforcement Learning Framework Inspired) is an intelligent portfolio optimization and market forecasting platform built with **React**, **FastAPI**, and **Machine Learning**. It combines multiple prediction models with a meta-level model selector to provide explainable investment insights, return forecasting, and portfolio intelligence through a modern interactive dashboard.
+HARLF (Hierarchical Adaptive Reinforcement Learning Framework Inspired) is an intelligent portfolio optimization and market forecasting platform built with **React**, **FastAPI**, and **Machine Learning**. It combines multiple prediction models with a meta-level model selector to provide explainable investment insights, return forecasting, and portfolio intelligence through a modern interactive dashboard. 
 
 ---
 

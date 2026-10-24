@@ -21,7 +21,7 @@ async function request(path, options = {}) {
   let response;
 
   try {
-    response = await fetch(`/api${path}`, {
+    response = await fetch(`https://harlf-adaptive-ml.onrender.com/api${path}`, {
       ...options,
       credentials: "include",
       headers: {

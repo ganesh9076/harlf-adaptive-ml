@@ -110,7 +110,7 @@ export default function Navbar({
     setSigningOut(true)
 
     try {
-      const response = await fetch('/api/auth/logout', {
+     const response = await fetch('https://harlf-adaptive-ml.onrender.com/api/auth/logout', {
         method: 'POST',
         credentials: 'include',
       })

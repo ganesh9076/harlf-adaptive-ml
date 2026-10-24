@@ -1,0 +1,70 @@
+{
+  "requested": [
+    "ASIANPAINT.NS",
+    "AXISBANK.NS",
+    "BHARTIARTL.NS",
+    "HCLTECH.NS",
+    "HDFCBANK.NS",
+    "HINDUNILVR.NS",
+    "ICICIBANK.NS",
+    "INFY.NS",
+    "ITC.NS",
+    "KOTAKBANK.NS",
+    "LT.NS",
+    "M&M.NS",
+    "MARUTI.NS",
+    "NESTLEIND.NS",
+    "NTPC.NS",
+    "POWERGRID.NS",
+    "RELIANCE.NS",
+    "SBIN.NS",
+    "SUNPHARMA.NS",
+    "TATASTEEL.NS",
+    "TCS.NS",
+    "TITAN.NS",
+    "ULTRACEMCO.NS",
+    "WIPRO.NS"
+  ],
+  "dropped": {},
+  "nonpositive_fixed": {},
+  "extreme_moves": [
+    [
+      "2010-01-08",
+      "NESTLEIND.NS",
+      0.763
+    ]
+  ],
+  "kept": [
+    "ASIANPAINT.NS",
+    "AXISBANK.NS",
+    "BHARTIARTL.NS",
+    "HCLTECH.NS",
+    "HDFCBANK.NS",
+    "HINDUNILVR.NS",
+    "ICICIBANK.NS",
+    "INFY.NS",
+    "ITC.NS",
+    "KOTAKBANK.NS",
+    "LT.NS",
+    "M&M.NS",
+    "MARUTI.NS",
+    "NESTLEIND.NS",
+    "NTPC.NS",
+    "POWERGRID.NS",
+    "RELIANCE.NS",
+    "SBIN.NS",
+    "SUNPHARMA.NS",
+    "TATASTEEL.NS",
+    "TCS.NS",
+    "TITAN.NS",
+    "ULTRACEMCO.NS",
+    "WIPRO.NS"
+  ],
+  "rows": 4146,
+  "start": "2010-01-04",
+  "end": "2026-10-16",
+  "missing_from_download": [
+    "TATAMOTORS.NS"
+  ],
+  "downloaded_at": "2026-10-17T12:16:57+00:00"
+}

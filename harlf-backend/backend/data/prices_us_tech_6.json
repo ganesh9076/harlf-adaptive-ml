@@ -1,0 +1,82 @@
+{
+  "requested": [
+    "AAPL",
+    "AMD",
+    "AMZN",
+    "AVGO",
+    "COST",
+    "CRM",
+    "DIS",
+    "GOOGL",
+    "IBM",
+    "INTC",
+    "JPM",
+    "KO",
+    "MA",
+    "META",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "ORCL",
+    "PLTR",
+    "TSLA",
+    "UBER",
+    "V",
+    "WMT"
+  ],
+  "dropped": {
+    "META": "history starts late (2012-05-18)",
+    "PLTR": "history starts late (2020-09-30)",
+    "UBER": "history starts late (2019-05-10)"
+  },
+  "nonpositive_fixed": {},
+  "extreme_moves": [
+    [
+      "2016-04-22",
+      "AMD",
+      0.523
+    ],
+    [
+      "2013-01-24",
+      "NFLX",
+      0.422
+    ],
+    [
+      "2025-09-10",
+      "ORCL",
+      0.359
+    ],
+    [
+      "2022-04-20",
+      "NFLX",
+      0.351
+    ]
+  ],
+  "kept": [
+    "AAPL",
+    "AMD",
+    "AMZN",
+    "AVGO",
+    "COST",
+    "CRM",
+    "DIS",
+    "GOOGL",
+    "IBM",
+    "INTC",
+    "JPM",
+    "KO",
+    "MA",
+    "MSFT",
+    "NFLX",
+    "NVDA",
+    "ORCL",
+    "TSLA",
+    "V",
+    "WMT"
+  ],
+  "rows": 4101,
+  "start": "2010-06-29",
+  "end": "2026-10-16",
+  "missing_from_download": [],
+  "downloaded_at": "2026-10-18T08:28:30+00:00"
+}

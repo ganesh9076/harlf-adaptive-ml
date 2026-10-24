@@ -1,0 +1,14 @@
+
+fastapi>=0.110
+uvicorn[standard]>=0.29
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+argon2-cffi>=23.1
+PyJWT>=2.8
+python-dotenv>=1.0
+pandas>=2.0
+numpy>=1.24
+scipy
+scikit-learn>=1.4
+xgboost>=2.0
+yfinance>=0.2.40

@@ -1,0 +1,57 @@
+{
+  "requested": [
+    "000001.SS",
+    "CL=F",
+    "GC=F",
+    "SI=F",
+    "^BSESN",
+    "^DJI",
+    "^FCHI",
+    "^FTSE",
+    "^GSPC",
+    "^HSI",
+    "^IXIC",
+    "^KS11",
+    "^NSEBANK",
+    "^NSEI",
+    "^STOXX50E"
+  ],
+  "dropped": {},
+  "nonpositive_fixed": {
+    "CL=F": 1
+  },
+  "extreme_moves": [
+    [
+      "2020-04-21",
+      "CL=F",
+      0.452
+    ],
+    [
+      "2020-04-22",
+      "CL=F",
+      0.377
+    ]
+  ],
+  "kept": [
+    "000001.SS",
+    "CL=F",
+    "GC=F",
+    "SI=F",
+    "^BSESN",
+    "^DJI",
+    "^FCHI",
+    "^FTSE",
+    "^GSPC",
+    "^HSI",
+    "^IXIC",
+    "^KS11",
+    "^NSEBANK",
+    "^NSEI",
+    "^STOXX50E"
+  ],
+  "rows": 4370,
+  "start": "2010-01-04",
+  "end": "2026-10-15",
+  "missing_from_download": [],
+  "downloaded_at": "2026-10-15T16:38:11+00:00"
+}
